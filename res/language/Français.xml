@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Language>
+  <Table ElementCount="5">
+    <Element Key="Fatal Error" Translation="Erreur Fatale"/>
+    <Element Key="GLFW::glfwCreateWindow() : Failure !" Translation="GLFW::glfwCreateWindow() : Échec !"/>
+    <Element Key="GLFW::glfwInit() : Failure !" Translation="GLFW::glfwInit() : Échec !"/>
+    <Element Key="OpenGL 3D Game Tutorial" Translation="Tutoriel de jeu 3D OpenGL"/>
+    <Element Key="GLEW::glewInit() : Failure !" Translation="GLEW::glewInit() : Échec !"/>
+  </Table>
+</Language>
